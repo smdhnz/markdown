@@ -22,4 +22,4 @@ function md() {
 md [some markdown file]
 ```
 
-## Go to `localhost:1234` in the browser
+## Go to `localhost:8000` in the browser
